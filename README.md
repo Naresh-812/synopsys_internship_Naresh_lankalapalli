@@ -7,7 +7,7 @@ My passion lies in **building from the ground up** — whether it’s designing 
 ## 🎯 Why Me?
 
 * **Solid Computer Architecture Experience** – Designed and verified a **MIPS32 5-stage pipelined processor** supporting R-, I-, and J-type instructions, applying hazard handling and pipeline optimization concepts directly from theory into working hardware.
-* **Hands-On RTL Design Skills** – Comfortable with **Verilog/SystemVerilog** for both design and verification, during my Maven Silicon internship.
+* **Hands-On RTL Design Skills** – Comfortable with **Verilog/SystemVerilog** for both design and verification,with hands on experience during my Maven Silicon internship.
 * **FPGA & HLS Expertise** – Built custom accelerators using **Vivado HLS** for AI workloads, integrating with Zynq MPSoCs (KV260) and deploying **DPU-based real-time inference pipelines**.
 * **Linux & Toolchain Proficiency** – Experienced in working with **Xilinx Vivado, PYNQ, Vitis HLS, and Synopsys tools**, with strong Git/Linux workflow.
 * **End-to-End System Development** – Skilled at moving from **algorithm → RTL/HLS design → FPGA prototyping → real-time deployment**, making me comfortable in both hardware and software aspects.
